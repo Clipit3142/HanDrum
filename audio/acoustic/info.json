@@ -1,0 +1,19 @@
+{
+    "clap":8,
+    "crash":9,
+    "floor-tom":8,
+    "hh-close":9,
+    "hh-open":2,
+    "hh-semi":4,
+    "high-tom":9,
+    "kick":10,
+    "mid-tom":10,
+    "perc0":10,
+    "perc1":8,
+    "perc2":10,
+    "ride":12,
+    "rimshot":3,
+    "snare":10,
+    "splash":9,
+    "sticks":3
+}
